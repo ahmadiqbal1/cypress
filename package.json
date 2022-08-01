@@ -1,0 +1,25 @@
+{
+  "name": "mlfm-cypress",
+  "version": "1.0.0",
+  "description": "Cypress MLFM Test Cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "mlfm-cypress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadiqbal1/cypress.git"
+  },
+  "keywords": [
+    "mlfm-cypress"
+  ],
+  "author": "Ahmad Iqbal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadiqbal1/cypress/issues"
+  },
+  "homepage": "https://github.com/ahmadiqbal1/cypress#readme",
+  "devDependencies": {
+    "cypress": "^10.3.1"
+  }
+}
